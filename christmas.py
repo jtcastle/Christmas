@@ -1,10 +1,8 @@
 from playsound import playsound
 import time
 
-print('$ pip install playsound')
 
-time.sleep(3)
-
+time.sleep(1.5)
 print("""
 This time of year (especially THIS year)""")
 time.sleep(3)
@@ -20,13 +18,13 @@ print('''
               \  |     |  /
           .     ,-'"""`-.     .
             "- /  __ __  \ -"
-              |==|  I  |==|
+              |  |* I *|  |
         - --- | _`--^--'_ | --- -
               |'`.     ,'`|
             _- \  "---"  / -_
           .     `-.___,-'     .
               /  |     |  \
-            .'  |   |   |  `.
+
                :    |    :
               .     :     .
               
